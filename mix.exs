@@ -3,7 +3,7 @@ defmodule Html5ever.Mixfile do
 
   # Moxley version 0.15.0
   @version "0.15.0"
-  @repo_url "https://github.com/rusterlium/html5ever_elixir"
+  @repo_url "https://github.com/moxley/html5ever_elixir"
 
   def project do
     [
