@@ -1,7 +1,7 @@
 defmodule Html5ever.Mixfile do
   use Mix.Project
 
-  # Moxley version 0.15.0
+  # Moxley version 0.15.0 v3
   @version "0.15.0"
   @repo_url "https://github.com/moxley/html5ever_elixir"
 
